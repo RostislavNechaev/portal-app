@@ -1,0 +1,14 @@
+.popupBody{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    border-radius: 25px;
+
+    .popup-header{
+        background-color: red;
+        height: 40px;
+        border-radius: 25px 25px 0 0;
+        padding-top: 25px;
+        padding-left: 25px;
+    }
+}
